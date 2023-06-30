@@ -4,15 +4,15 @@ import Contact from '../component/Contact'
 import Interview from '../component/Interview'
 import Portfolio from '../component/Portfolio'
 
-export default function Content(props) {
+export default function Content(mother) {
     
 
     return (
-        <>
+        <section id={mother.cid}>
            <Banner></Banner>
            <Portfolio></Portfolio> 
            <Interview></Interview>
            <Contact></Contact>
-        </>
+         </section>
     )
 }
