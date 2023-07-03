@@ -1,7 +1,35 @@
 .container{
-    width:50vw;
+    border-radius: 80px;
+    max-width: 1280px;
     margin: 0 auto;
+    /* background-color: orange; */
+    height: 580px;
 }
+
+.swiperwrapper{
+    /* background-color: orange; */
+}
+/* 991 이하 버전에서는 */
+@media(max-width:991px ){
+    .container{
+        height: 100vh;
+        /* padding-top: ; 패딩을 넣어주면 늘어난다. */
+    }
+}
+
 .row{
     background-color: red;
+}
+
+/* .box{
+    margin-top: 57px;
+    height: 500px !important;
+} */
+
+#content{
+    padding-top: 100px;
+}
+
+.mb5{
+    margin-bottom: 100px;
 }

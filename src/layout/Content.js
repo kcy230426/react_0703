@@ -10,9 +10,9 @@ export default function Content(mother) {
     return (
         <section id={mother.cid}>
            <Banner></Banner>
-           <Portfolio></Portfolio> 
+           {/* <Portfolio></Portfolio> 
            <Interview></Interview>
-           <Contact></Contact>
+           <Contact></Contact> */}
          </section>
     )
 }

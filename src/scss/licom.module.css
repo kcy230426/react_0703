@@ -1,0 +1,78 @@
+.salered{
+    width: 70px;
+    height: 70px;
+    background-color: #ff392e;
+    border-radius: 100px;
+    top: 0;
+    left: 0;
+}
+
+.numcss{
+    font-family: 'Noto Sans KR';
+    font-weight: 700;
+    font-size: 22pt;
+    color: white;
+}
+
+.numcss2{
+    font-family: 'Noto Sans KR';
+    font-weight: 700;
+    font-size: 11pt;
+    margin-left: 1px;
+}
+
+.striketxt{
+    color: #a5a5a5;
+    font-size: 18pt;
+}
+
+.propricetxt{
+    font-size: 23pt;
+    font-weight: 700;
+    color: #ff392e;
+}
+
+.won{
+    font-size: 15pt;
+    margin-right: 8px;
+}
+
+.smtitle{
+    color: #888;
+    font-family: 'Noto Sans KR';
+    font-weight: 500;
+    font-size: 16pt;
+}
+
+.title{
+    font-family: 'Noto Sans KR';
+    font-weight: 500;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    font-size:20pt;
+}
+
+.titlebox{
+    height: 200px;
+    background-color: #fb9e00;
+    border-radius: 10px;
+    background-image: url(//campaign-cdn.pstatic.net/0/campaign/2023/03/healthychart/img_v2/bg_banner_yellow.png);
+    background-size: 260px auto;
+    background-position: 85% 110%;
+    background-repeat: no-repeat;
+    margin-bottom: 60px;
+}
+
+.ads{
+    color: rgba(255, 255, 255, 0.8);
+    font-family: 'Noto Sans KR';
+    font-size: 18pt;
+    font-weight: 500;
+}
+
+.ads2{
+    color: white;
+    font-family: 'Noto Sans KR';
+    font-size: 35pt;
+    font-weight: 700;
+}
